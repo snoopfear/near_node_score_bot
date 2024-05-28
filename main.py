@@ -12,8 +12,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-BOT_TOKEN = '7300169380:AAHWP_GtcdyIinW-6QbEJbFjNYvK2VOwRT0'  # токен бота
-BOT_USER_ID = 257319019  # айди юзера
+BOT_TOKEN = ''  # токен бота
+BOT_USER_ID =   # айди юзера
 
 CHUNKS_CHECK_INTERVAL = 15  # в минутах
 SIZE_CHANGE_CHECK_INTERVAL = 6  # в часах
